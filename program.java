@@ -1,4 +1,4 @@
-class Simple
+class program
 {
 public static void main(String args[])
 {
